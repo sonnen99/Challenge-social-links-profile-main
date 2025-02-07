@@ -1,0 +1,48 @@
+body {
+    font-family: 'Inter';
+    background-color: #141414;
+    text-align: center;
+    padding: 5%;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.profile-picture {
+    width: 30%;
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+
+.location {
+    color: #C4F82A;
+    font-weight: 600;
+}
+
+.card {
+    background-color: #1F1F1F;
+    color: white;
+    margin: auto;
+    padding: 30px;
+    width: 22rem;
+    border-radius: 20px;
+}
+
+.btn {
+    background-color: #333333;
+    margin: 5px 0;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 8px;
+}
+
+.btn:hover {
+    background-color: #C4F82A;
+    color: #1F1F1F;
+}
+
+.attribution {
+    margin-top: 20px;
+}
