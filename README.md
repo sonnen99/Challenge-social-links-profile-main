@@ -10,7 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Author](#author)
+- [Author](#author)
 
 
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/html-css-bootstrap-solution-s_tNCaxWhU)
+- Live Site URL: [Live site URL](https://sonnen99.github.io/Challenge-social-links-profile-main/)
 
 ## My process
 
